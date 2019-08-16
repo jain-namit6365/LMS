@@ -1,5 +1,3 @@
-# LMS
-library management
 from tkinter import *
 from tkinter.ttk import Treeview
 import mysql.connector
